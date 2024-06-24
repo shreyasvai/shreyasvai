@@ -1,6 +1,6 @@
 ### Hi there, I'm Shreyas 👋🏼
 
-#### I am currently a software engineer based out of the Bay Area 🌁 working on the latest payment technology at [JPMorgan Chase & Co.](https://www.jpmorganchase.com)
+#### I am currently a software engineer based out of the Bay Area 🌁 working on the latest payment technology at [JPMorganChase](https://www.jpmorganchase.com)
 
 ##### A little bit about me:
 - 🖥️ Grew up in the Silicon Valley, exposed to the latest innovations at a young age.
@@ -9,7 +9,7 @@
 
 ##### How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/shreyasvaidya/)
-- [Twitter](https://twitter.com/realsv7)
+- [X](https://x.com/realsv7)
 
 <!--
 **shreyasvai/shreyasvai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
